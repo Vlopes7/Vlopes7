@@ -31,7 +31,7 @@
 ---
 
 ## 📈 GitHub Stats
-
+<p align = "center>
 <table>
   <tr>
     <td>
@@ -50,7 +50,7 @@
     </td>
   </tr>
 </table>
-
+</p>
 
 
 
