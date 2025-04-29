@@ -31,7 +31,7 @@
       <img 
         src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true&theme=radical" 
         alt="GitHub Stats"
-        width="340"
+        width="400"
       />
     </td>
     <td>
