@@ -29,16 +29,14 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true&theme=radical" 
-        alt="GitHub Stats"
-        width="400"
+        src="https://github-readme-stats.vercel.app/api?username=ViniciusLopes-dev&show_icons=true&theme=radical" 
+        width="340"
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&layout=compact&theme=radical" 
-        alt="Top Langs"
-        width="400"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLopes-dev&layout=compact&theme=radical" 
+        width="340"
       />
     </td>
   </tr>
