@@ -29,13 +29,13 @@
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true&theme=radical" 
+        src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true&theme=dark" 
         alt="GitHub Stats" 
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&layout=compact&theme=radical" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&layout=compact&theme=dark" 
         alt="Top Langs" 
       />
     </td>
