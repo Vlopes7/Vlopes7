@@ -42,7 +42,7 @@ Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções cria
 </picture>
 
 <img 
-      align="left" 
+      align="end" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
