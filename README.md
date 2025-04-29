@@ -59,9 +59,6 @@ Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções cria
   <a href="mailto:viniciuslopes242005@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-  <a href="https://github.com/Vlopes7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </div>
 
 ---
