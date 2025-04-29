@@ -43,7 +43,7 @@ Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções cria
 
 ## 📬 Contato
 
-<div align="center">
+<div align="start">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-lopes-1bb568326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
