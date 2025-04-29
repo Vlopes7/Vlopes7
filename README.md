@@ -41,6 +41,13 @@ Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções cria
   <img src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true" alt="GitHub Stats de Vinícius Lopes" />
 </picture>
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 ---
 
 ## 🚀 Sobre mim
