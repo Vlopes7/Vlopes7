@@ -31,17 +31,16 @@
 ---
 
 ## 📈 GitHub Stats
-<p align = "center>
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true&theme=radical" 
         alt="GitHub Stats"
         width="400"
       />
     </td>
-    <td>
+    <td align="center">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&layout=compact&theme=radical" 
         alt="Top Langs"
@@ -50,7 +49,7 @@
     </td>
   </tr>
 </table>
-</p>
+
 
 
 
