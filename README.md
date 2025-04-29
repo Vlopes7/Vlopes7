@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou o **Vinícius Lopes**!
 
 Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções criativas. Atualmente focado em desenvolvimento fullstack, com experiência nas linguagens **JavaScript**, **Java** e **Python**.
+
 ---
 
 ## 🛠️ Tecnologias que utilizo no meu dia a dia:
@@ -42,10 +43,19 @@ Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções cria
 
 ## 📬 Contato
 
-Se quiser entrar em contato comigo, aqui estão algumas formas:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-lopes-1bb568326/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Vlopess7)  
-[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-lopes-1bb568326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/Vlopess7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:viniciuslopes242005@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://github.com/Vlopes7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
 ---
