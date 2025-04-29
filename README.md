@@ -35,20 +35,23 @@ Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções cria
 
 ## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true&theme=dark" 
-           alt="GitHub Stats de Vinícius Lopes" 
-           height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-           alt="Top Langs de Vinícius Lopes" 
-           height="200"/>
-    </td>
-  </tr>
-</table>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 ---
 
