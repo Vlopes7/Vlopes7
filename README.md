@@ -19,9 +19,14 @@
 ---
 
 ## 🛠️ Tecnologias que utilizo no meu dia a dia:
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-
+![Python](https://cdn.jsdelivr.net/npm/devicon@latest/devicon-minimal/devicon-python-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/npm/devicon@latest/devicon-minimal/devicon-javascript-original.svg)
+![HTML](https://cdn.jsdelivr.net/npm/devicon@latest/devicon-minimal/devicon-html5-original.svg)
+![CSS](https://cdn.jsdelivr.net/npm/devicon@latest/devicon-minimal/devicon-css3-original.svg)
+![Java](https://cdn.jsdelivr.net/npm/devicon@latest/devicon-minimal/devicon-java-original.svg)
+![MySQL](https://cdn.jsdelivr.net/npm/devicon@latest/devicon-minimal/devicon-mysql-original.svg)
+![Jira](https://cdn.jsdelivr.net/npm/devicon@latest/devicon-minimal/devicon-jira-original.svg)
+![Ollama](https://cdn.jsdelivr.net/npm/devicon@latest/devicon-minimal/devicon-ollama-original.svg)
 
 ---
 
