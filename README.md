@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tecnologias que utilizo no meu dia a dia:
+## 🛠️ Tecnologias:
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
