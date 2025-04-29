@@ -1,6 +1,10 @@
 # 👋 Olá, eu sou o **Vinícius Lopes**!
 
-Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções criativas. Atualmente focado em desenvolvimento fullstack, com experiência nas linguagens **JavaScript**, **Java** e **Python**.
+## 🚀 Sobre mim
+
+- 💻 Apaixonado por desenvolvimento de software e novas tecnologias;
+- 🎯 Sempre buscando melhorar minhas habilidades e aprender algo novo;
+- 🤝 Aberto a colaborações em projetos interessantes e desafiadores.
 
 ---
 
@@ -52,14 +56,6 @@ Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções cria
   />
 
 </p>
-
----
-
-## 🚀 Sobre mim
-
-- 💻 Apaixonado por desenvolvimento de software e novas tecnologias;
-- 🎯 Sempre buscando melhorar minhas habilidades e aprender algo novo;
-- 🤝 Aberto a colaborações em projetos interessantes e desafiadores.
 
 ---
 
