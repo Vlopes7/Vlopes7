@@ -25,25 +25,22 @@
 
 ## 📈 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-  <br clear = "all">
-
-</p>
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" 
+        alt="GitHub Stats" 
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" 
+        alt="Top Langs" 
+      />
+    </td>
+  </tr>
+</table>
 
 
 ---
