@@ -8,6 +8,10 @@ Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e soluções cria
 
 - [Equipe Echo](https://github.com/EquipeEcho) - Uma equipe dedicada a desenvolver soluções inovadoras e colaborar em projetos tecnológicos.
 
+  **Projetos Desenvolvidos:**
+  - EasyScrum
+  - BotEcho
+
 ---
 
 ## 🛠️ Tecnologias que utilizo no meu dia a dia:
