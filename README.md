@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=python,java,ollama,mysql,netbeans,html,css,git,linux,jira,powershell"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,java,ollama,mysql,apache,html,css,git,linux,jira,powershell"
     />
   </a>
 </p>
