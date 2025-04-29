@@ -57,6 +57,8 @@
 
 </p>
 
+<br clear="all" />
+
 ---
 
 ## 📬 Contato
