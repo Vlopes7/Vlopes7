@@ -54,15 +54,6 @@
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/MySQL/MySQL-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -79,12 +70,22 @@
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Jira/Jira-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Jira" 
+    title="Jira"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+/>
+
+
 
 <br/>
 <br/>
