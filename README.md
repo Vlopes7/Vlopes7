@@ -35,14 +35,14 @@
   <tr>
     <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true&theme=radical" 
+        src="https://github-readme-stats.vercel.app/api?username=Vlopes7&show_icons=true&theme=dark" 
         alt="GitHub Stats"
         width="400"
       />
     </td>
     <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&layout=compact&theme=radical" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlopes7&layout=compact&theme=dark" 
         alt="Top Langs"
         width="300"
       />
