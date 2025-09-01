@@ -10,12 +10,16 @@
 
 ## 🏢 Organizações
 
-- [Equipe Echo](https://github.com/EquipeEcho) - Uma equipe dedicada a desenvolver soluções inovadoras e colaborar em projetos tecnológicos.
+- [Equipe Echo](https://github.com/EquipeEcho)
 
   **Projetos Desenvolvidos:**
   - EasyScrum
   - BotEcho
 
+    
+- [Spacenline](https://github.com/SPACELINE-API)
+  **Projetos Desenvolvidos:**
+  - Entrenova Flix
 ---
 
 ## 🛠️ Tecnologias:
